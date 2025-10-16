@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Prakash Kumar Jha</h1>
 <h3 align="center">Sophomore @ IIT Patna (CS & Data Analytics) | Google Student Ambassador | Frontend Dev | DSA with C++ | GSSoC’25 | OSCIndia’25 | 🏆 Arcade Legend (90 pts) | AI/ML & Web Dev | Data Science Learner</h3>
 
+[![An image of @prakashjhax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakashjhax)](https://holopin.io/@prakashjhax)
+
 <h1 align="center">📊 GitHub Overview</h1>
 <!-- GitHub Stats Table -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
